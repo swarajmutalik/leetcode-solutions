@@ -21,10 +21,10 @@ I'm preparing for software engineering and cybersecurity roles by strengthening 
 
 ## Progress
 
-Easy: 135
-Medium: 12
-Hard: 1
+Easy: 140
+Medium: 13
+Hard: 2
 
-Total Solved: 148
+Total Solved: 155
 
 Happy Coding! 🚀
